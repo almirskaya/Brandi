@@ -1,0 +1,31 @@
+{
+  "name": "brandi",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "0.0.14",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-watch": "^4.3.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almirskaya/Brandi.git"
+  },
+  "author": "Alexandra Mirskaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almirskaya/Brandi/issues"
+  },
+  "homepage": "https://github.com/almirskaya/Brandi#readme"
+}
